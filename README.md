@@ -48,7 +48,7 @@
         }
 
         .img {
-            background-color: white;
+            background-color: yellow;
             background-size: cover;
             background-image: url('https://thumbs.dreamstime.com/z/orange-calculator-bright-paper-yellow-background-office-supplies-education-back-to-school-top-view-place-text-orange-154497333.jpg');
 
@@ -80,7 +80,7 @@
         }
 
         #btn {
-            background: black;
+            background: orange;
             color: white;
         }
 
